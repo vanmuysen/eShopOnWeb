@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-vanmuysen
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: SUBSCRIPTION-ID
+  SUBSCRIPTION-ID: 6a7f28fa-46e8-49f4-a6f9-f9edbd4bc7f2
   WEBAPP-NAME: eshoponweb-webapp-vanmuysen
 
 
